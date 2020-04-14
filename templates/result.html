@@ -1,0 +1,47 @@
+<html lang='en'>
+    <head>
+        <meta charset='utf-8'>
+        <link rel='stylesheet' href='../static/style.css'>
+        <link rel='stylesheet' href='../static/dependencies/bulma.min.css'>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+
+    <body>
+        <nav class="navbar is-transparent">
+          <div class="navbar-brand">
+            <a class="navbar-item">
+                <p class="class--title"> Malaria Model </p>
+            </a>
+            <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+          </div>
+
+          <div id="navbarExampleTransparentExample" class="navbar-menu">
+
+            <div class="navbar-end">
+                <div class="navbar-item">
+                    <div class="field is-grouped">
+                    </div>
+              </div>
+            </div>
+          </div>
+        </nav>
+        <div>
+            <div class='center'>
+                <div class='title'> Prediction </div>
+                <div class='content'>
+                  <button class='analyze-button' onclick="location.href='/'">Go Back</button>
+                    <div class='result-label'>
+                        <br>
+                        <label id='result-label'>Resulting Category : {{ result }}</label>
+                        <br>
+                        <label id='predicted-label'>Prediction : {{ predicted }}</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

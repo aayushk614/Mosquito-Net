@@ -1,0 +1,52 @@
+<html lang='en'>
+    <head>
+        <meta charset='utf-8'>
+        <link rel='stylesheet' href='../static/style.css'>
+        <link rel='stylesheet' href='../static/dependencies/bulma.min.css'>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+
+    <body>
+        <nav class="navbar is-transparent">
+          <div class="navbar-brand">
+            <a class="navbar-item">
+                <p class="class--title"> Malaria Classifier </p>
+            </a>
+            <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+          </div>
+
+          <div id="navbarExampleTransparentExample" class="navbar-menu">
+
+            <div class="navbar-end">
+                <div class="navbar-item">
+                    <div class="field is-grouped">
+                    </div>
+              </div>
+            </div>
+          </div>
+        </nav>
+        <div>
+            <div class='center'>
+                <div class='title'> Malaria Model </div>
+                <div class='content'>
+                    <div class='no-display'>
+                        <input id='file-input'
+                            class='no-display'
+                            type='file'
+                            name='file'
+                            accept='image/*'
+                            onchange=''>
+                    </div>
+                    <form method ='post' enctype=multipart/form-data>
+                        <input type="file" class='choose-file-button' name="file">
+                        <br><br>
+                        <input type="submit" class='analyze-button' value="Analyze">
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

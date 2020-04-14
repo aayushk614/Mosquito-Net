@@ -1,0 +1,5 @@
+{
+    "name":"Malaria Classifier",
+    "description":"Malaria Tester using PyTorch based on blood smear images",
+    "keywords":["malaria-detector","pytorch","python","flask"]
+}
