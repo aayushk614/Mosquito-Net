@@ -1,7 +1,7 @@
 # MOSQUITO-NET
 
 <p float="left" align="center">
-<img src="images/Figure-6.jpg" width="200" /> 
+<img src="images/Figure-6.jpg" /> 
 
 </p>
  
