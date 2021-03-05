@@ -2,7 +2,7 @@
 
 <h1 align="center">
   
- <img src="images/Figure-6" alt="Mosquito-Net Pipeline">
+ <img src="images/Figure-6.tif" alt="Mosquito-Net Pipeline">
   
  <br/>
  </h1>
