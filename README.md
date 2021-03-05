@@ -1,7 +1,7 @@
 # MOSQUITO-NET
 
   
-![alt text](images/Figure-6.tif)
+![alt text](images/Figure-6.jpg)
   
 
  
