@@ -1,10 +1,9 @@
 # MOSQUITO-NET
 
-<h1 align="center">
   
 ![alt text](images/Figure-6.tif)
   
-</h1>
+
  
 ## About the project
 
