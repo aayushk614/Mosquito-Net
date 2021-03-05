@@ -6,7 +6,7 @@ interpretation using GradCam and CLass activation maps.**
 This work
 has been published in [Expert Systems](https://onlinelibrary.wiley.com/journal/14680394).
 
-Automatic classification of AD using classical machine learning approaches can
+Automatic classification of malaria infected blood smears deep learning approaches can
 be performed using the framework available here:
 <https://malaria.zyik.ml/>.
 
