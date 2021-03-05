@@ -1,8 +1,9 @@
 # MOSQUITO-NET
 ## About the project
 
-This repository hosts the source code of ** MOSQUITO-NET: A Deep Learning based CADx system for malaria diagnosis along with model
-interpretation using GradCam and CLass activation maps.**. This work
+This repository hosts the source code of **MOSQUITO-NET: A Deep Learning based CADx system for malaria diagnosis along with model
+interpretation using GradCam and CLass activation maps.**
+This work
 has been published in [Expert Systems](https://onlinelibrary.wiley.com/journal/14680394).
 
 Automatic classification of AD using classical machine learning approaches can
