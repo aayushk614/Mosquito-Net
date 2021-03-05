@@ -2,10 +2,10 @@
 
 <h1 align="center">
   
- <img src="images/Figure-6.tif" alt="Mosquito-Net Pipeline">
+<img src="images/Figure-6.tif" alt="Mosquito-Net Pipeline">
   
- <br/>
- </h1>
+</h1>
+ 
 ## About the project
 
 This repository hosts the source code of **MOSQUITO-NET: A Deep Learning based CADx system for malaria diagnosis along with model
