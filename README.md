@@ -1,6 +1,4 @@
 # Mosquito-Net
-Source Code for "MOSQUITO-NET: A Deep Learning based CADx system for malaria diagnosis along with model interpretation using GradCam and class activation maps."
-
 
 <p float="left" align="center">
 <img src="images/Figure-6.jpg" /> 
