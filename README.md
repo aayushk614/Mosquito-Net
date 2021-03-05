@@ -1,10 +1,9 @@
 # MOSQUITO-NET
 
-<center> 
- 
-![Mosquito-Net Pipeline](images/Figure-6.jpg)
-  
-</center>
+<p float="left" align="center">
+<img src="images/Figure-6.jpg" width="200" /> 
+
+</p>
  
 ## About the project
 
