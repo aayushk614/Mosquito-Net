@@ -2,7 +2,6 @@
 
 <p float="left" align="center">
 <img src="images/Figure-6.jpg" /> 
-
 </p>
  
 ## About the project
