@@ -15,4 +15,12 @@ Automatic classification of malaria infected blood smears deep learning approach
 be performed using the framework available here:
 <https://malaria.zyik.ml/>.
 
+
+## Mosquito-Net (Mish version)
+Mosquito net with a different activation function [Mish](https://github.com/digantamisra98/Mish). Slightly improved performance.  
+
+## Mosquito-Net V2 (Mobile version)
+A more optimized version of MosquitoNet with Depthwise Seperable Convolutions for mobile devices accepted & presented in[*ICML 2020, MLGH Workshop Poster*](https://drive.google.com/file/d/1OoCqThpsm9N38eUTGNmxwRhVat8IxWVl/view)
+
+
 The project is live at https://zyik.ml/
